@@ -1,0 +1,22 @@
+$ cd d:
+$ mkdir devops
+$ cd devops
+$ git clone https://github.com/ManojKumarS-09/devopsrep.git
+$ git init
+$ git status
+$ cd devopsrep
+$ git checkout -b mca
+$ touch results
+$ git add .
+$ git commit -m "saved successfully"
+$ git config --global user.name ManojKumarS-09
+$ git config --global user.email manojkumar.mca23@bmsce.ac.in
+$ git commit -m "saved successfully"
+$ git push origin mca
+$ git branch master
+$ git merge master
+$ git pull origin mca
+$ git push resultsmc mca
+$ git add .
+$ git push -u origin mca
+
